@@ -1,0 +1,16 @@
+{
+  "name": "Flex Living Reviews Dashboard",
+  "short_name": "Flex Reviews",
+  "description": "Manage and display property reviews for Flex Living",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#3b82f6",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
